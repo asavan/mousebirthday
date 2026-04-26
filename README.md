@@ -1,2 +1,0 @@
-# mousebirthday
-Game for mouse
